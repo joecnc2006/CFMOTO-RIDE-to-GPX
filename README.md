@@ -1,17 +1,11 @@
 # CFMOTO RIDE to GPX
 
 <p align="center">
-  <a href="https://github.com/joecnc2006/CFMOTO-RIDE-to-GPX/releases/download/v1.0/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf">
-    <img src="https://img.shields.io/github/downloads/joecnc2006/CFMOTO-RIDE-to-GPX/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf?label=PDF%20Downloads&style=for-the-badge&labelColor=0d1117&color=00b8d9" alt="PDF Downloads">
-  </a>
-</p>
-
-<p align="center">
   <strong>Export your own CFMOTO RIDE historical tracks to a standard GPX file using BlueStacks, ADB, and Android logcat.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/joecnc2006/CFMOTO-RIDE-to-GPX/releases/download/v1.0/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf"><strong>📘 Download the Complete PDF Guide</strong></a>
+  <a href="https://github.com/joecnc2006/CFMOTO-RIDE-to-GPX/releases/download/v1.0/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf"><img src="https://img.shields.io/github/downloads/joecnc2006/CFMOTO-RIDE-to-GPX/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf?label=Download%20PDF%20Guide&style=for-the-badge&labelColor=0d1117&color=00b8d9" alt="Download PDF Guide"></a>
   &nbsp;•&nbsp;
   <a href="AI_PROMPT.md"><strong>🤖 AI Conversion Prompt</strong></a>
   &nbsp;•&nbsp;

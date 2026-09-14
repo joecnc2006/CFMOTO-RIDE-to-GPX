@@ -1,0 +1,20 @@
+# Sensitive CFMOTO ride captures
+ride_capture.txt
+*logcat*.txt
+*.mitm
+*.har
+
+# Personal/generated GPX tracks
+*.gpx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows / editors
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

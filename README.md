@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/joecnc2006/CFMOTO-RIDE-to-GPX/releases/download/v1.0/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf">
-    <img src="https://img.shields.io/github/downloads/joecnc2006/CFMOTO-RIDE-to-GPX/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf?label=PDF%20Downloads&style=for-the-badge" alt="PDF Downloads">
+    <img src="https://img.shields.io/github/downloads/joecnc2006/CFMOTO-RIDE-to-GPX/CFMOTO_RIDE_to_GPX_Complete_Guide.pdf?label=PDF%20Downloads&style=for-the-badge&labelColor=0d1117&color=00b8d9" alt="PDF Downloads">
   </a>
 </p>
 
